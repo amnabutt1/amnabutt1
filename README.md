@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amnabutt1
+- 👀 I’m interested in new concepts and ways to enhance my code
+- 🌱 I’m currently learning react native
+- 📫 You can reach me @amnakhalilbutt@gmail.com
+- ⚡ Fun fact: There is no fun fact.
